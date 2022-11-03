@@ -1,0 +1,30 @@
+#name{
+  font-family: Comic Sans MS;
+
+}
+
+.DIV1{
+  /* background-color: #F0FFFF; */
+  background-color: #48D1CC;
+  position: relative;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+
+.img{
+  border-radius: 50%;
+  border: solid black;
+
+}
+
+.table{
+  margin: 0 auto 0 auto;
+}
+
+.song{
+  background-color: red;
+}
